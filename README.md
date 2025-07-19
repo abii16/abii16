@@ -14,8 +14,7 @@
 ## 😊 About Me
 
 - 🎓 **Software Engineering student** @ [Debre Berhan University](https://www.dbu.edu.et/)
-- 🛠️ Always learning **Fullstack Web & App Development**
-- 🤩 Passionate about **UI/UX, Machine Learning, and Forex Trading**
+- 🛠️  learning **Fullstack Web & App Development with web animations**
 - 🌱 Growing every day, open to new ideas and projects!
 - 🧑‍💻 Coding, designing, and collaborating with awesome people
 
@@ -26,8 +25,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="60" alt="Working" />
   <br>
-  <b>Latest Focus:</b> Building interactive user interfaces and exploring AI/ML!
-  <br>
   <b>Looking for:</b> Collaboration, mentorship, and fun side projects 🤝
 </div>
 
@@ -36,7 +33,7 @@
 ## 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,python,java,git,sass,mysql,figma,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,java,git,sass,mysql,figma,html,css,notion,github" />
 </p>
 
 ---
@@ -55,8 +52,8 @@
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://t.me/ljdan1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ljdan1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/clueminer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/daniel-fekede-731943372"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:danielfekede1616@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
