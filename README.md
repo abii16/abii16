@@ -14,21 +14,9 @@
 ## 😊 About Me
 
 - 🎓 **Software Engineering student** @ [Debre Berhan University](https://www.dbu.edu.et/)
-- 🛠️  learning **Fullstack Web & App Development with web animations**
-- 🌱 Growing every day, open to new ideas and projects!
-- 🧑‍💻 Coding, designing, and collaborating with awesome people
 
 ---
 
-## 🎯 What I'm Up To
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="60" alt="Working" />
-  <br>
-  <b>Looking for:</b> Collaboration, mentorship, and fun side projects 🤝
-</div>
-
----
 
 ## 🛠️ Tech Toolbox
 
@@ -56,22 +44,6 @@
   <a href="https://www.linkedin.com/in/daniel-fekede-731943372"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:danielfekede1616@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-<details>
-  <summary>✨ <b>Fun Facts & Hobbies</b></summary>
-  
-  - 🎵 hip pop Music lover & sing in my free time  
-  - 🎸 ai news and movies  
-  - 💡 Always up for a good meme or a coding challenge!
-</details>
-
-<details>
-  <summary>🚀 <b>Featured Projects</b></summary>
-  
-    
-</details>
 
 ---
 
