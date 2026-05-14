@@ -9,13 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=abii16&style=flat-square&color=8f43ae" alt="Profile views" />
 </p>
 
----
 
-## 😊 About Me
-
-- 🎓 **Software Engineering student** @ [Debre Berhan University](https://www.dbu.edu.et/)
-
----
 
 
 ## 🛠️ Tech Toolbox
